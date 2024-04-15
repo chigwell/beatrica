@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='beatrica',
-    version='0.0.14',
+    version='0.0.12',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description="Beatrica is a tool for code review automation using large language models.",
