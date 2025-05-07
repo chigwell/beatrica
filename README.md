@@ -1,6 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/beatrica.svg)](https://badge.fury.io/py/beatrica)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/beatrica)](https://pepy.tech/project/beatrica)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
 # Beatrica
 
@@ -172,4 +173,4 @@ Contributions, issues, and
 
 ## License
 
-`beatrica` is made available under the [MIT License](https://choosealicense.com/licenses/mit/).
+`beatrica` is made available under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE).
